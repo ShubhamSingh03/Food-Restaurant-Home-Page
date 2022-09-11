@@ -15,17 +15,17 @@
 ***
 ## Description
 
-This project [Food Restaurant Home Page]() was built using Semantic HTML and CSS. The main aim of the project was to use more **flexbox** and its properties.In this project I also learnt how to use **linear gradient** on background image. The Project was completed under guidance of [Hitesh Choudhary](https://github.com/hiteshchoudhary), CTO Ineuron
+This project [Food Restaurant Home Page](https://food-home.netlify.app/) was built using Semantic HTML and CSS. The main aim of the project was to use more **flexbox** and its properties.In this project I also learnt how to use **linear gradient** on background image. The Project was completed under guidance of [Hitesh Choudhary](https://github.com/hiteshchoudhary), CTO Ineuron
 
 ***
 
 ### Links for Project
 
-* [LIVE Project Link]()
+* [LIVE Project Link](https://food-home.netlify.app/)
 
-* [Youtube Video Demo]()
+* [Youtube Video Demo](https://youtu.be/fn6aJYV7Cus)
 
-* [Source Code]()
+* [Source Code](https://github.com/ShubhamSingh03/Food-Restaurant-Home-Page)
 
 ***
 ### Built With 
@@ -64,19 +64,17 @@ This project [Food Restaurant Home Page]() was built using Semantic HTML and CSS
 <br>
 
 ### Checkout Portfolio & Other Projects
-<br>
 
-#### [Personal Portfolio]()
+#### [Personal Portfolio](https://shubhambhoj.in/)
 
-
-#### [Findcoder Profile]()
+#### [Findcoder Profile](https://www.findcoder.io/u/shubham_singh)
 ***
 
 ### Connect with Me
 * [Mailto](mailto:shubhambhoj3@gmail.com)
-* [LinkedIn]()
-* [Github]()
-* [Findcoder]()
+* [LinkedIn](https://www.linkedin.com/in/shubham-singh-b122b7171/)
+* [Github](https://github.com/ShubhamSingh03)
+* [Findcoder](https://www.findcoder.io/u/shubham_singh)
 ***
 ***
 [go to top](#food-restaurant-home-page)
